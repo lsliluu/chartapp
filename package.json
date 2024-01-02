@@ -1,0 +1,15 @@
+{
+  "name": "chartapp",
+  "version": "1.0.0",
+  "description": "图表显示应用",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "hzf",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  }
+}
